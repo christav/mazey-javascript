@@ -1,0 +1,23 @@
+{
+  "name": "mazey",
+  "version": "1.0.0",
+  "description": "Command line maze maker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christav/mazey.git"
+  },
+  "author": "Chris Tavares <ctavares@microsoft.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/christav/mazey/issues"
+  },
+  "homepage": "https://github.com/christav/mazey#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
